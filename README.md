@@ -12,7 +12,7 @@ Lenguajes & Hardware: C++ (Arduino/ESP32), HTML5, CSS3, JavaScript.
 IA como Asistente de Desarrollo: Utilizo herramientas de Inteligencia Artificial para la refactorización de funciones, optimización de lógica de conectividad y limpieza de código, asegurando estándares de calidad profesional.
 
 🥊 Disciplina y Enfoque
-Fuera del código, practico Mixed Martial Arts (MMA), una disciplina que me ha brindado la constancia, la resiliencia y la capacidad de resolución de problemas bajo presión necesarias para el ámbito de la ingeniería.
+Fuera del código, practico Mixed Martial Arts (MMA), una disciplina que me ha brindado la constancia, la resiliencia y la capacidad de resolución de problemas bajo presión necesarias para el ámbito de la ingeniería. A la vez que voy al Gimnasio alternando los dias con mi otra actividad.
 
 📬 Conectemos
 LinkedIn: Nahuel Montes Rojas
