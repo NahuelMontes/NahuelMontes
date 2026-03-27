@@ -1,6 +1,6 @@
 Hola, soy Nahuel Montes
 
-Técnico en Informática | Estudiante de Ingeniería en Informática (UBA)
+Técnico en Informática | Estudiante de Ingeniería en Informática (UBA-CBC)
 Soy un apasionado por la integración entre el hardware y el software, actualmente cursando mi último año de secundaria técnica y el Ciclo Básico Común en la Facultad de Ingeniería de la UBA. Mi objetivo es aplicar mis conocimientos técnicos en mi primera experiencia profesional en el sector IT.
 
 🚀 Proyectos Destacados
